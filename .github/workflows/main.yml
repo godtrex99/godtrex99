@@ -1,4 +1,4 @@
-name: Progress
+name: Progress Bar CI
 
 on:
   workflow_dispatch:
@@ -23,4 +23,4 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -am "bot: update README.md automatically"
-          git pus
+          git push
