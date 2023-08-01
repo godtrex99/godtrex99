@@ -1,3 +1,5 @@
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.io%2Fgodtrex99"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.io%2Fgodtrex99&label=Visitors&countColor=%232ccce4&style=flat-square" /></a>
+
 </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
