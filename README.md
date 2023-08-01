@@ -1,6 +1,9 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=godtrex99.godtrex99">
-<br>
-<br>
+<p align="center">
+  <a href="https://github.com/godtrex99?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/godtrex99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/godtrex99?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/godtrex99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+godtrex99....;Nice+to+meet+you!&center=true&size=30">
@@ -10,7 +13,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=godtrex99&theme=react&border=61dafb&hide_border=true" alt="godtrex99" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
