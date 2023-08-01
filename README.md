@@ -1,13 +1,21 @@
-<p align="center">
-  <a href="https://github.com/godtrex99?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/godtrex99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/godtrex99?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/godtrex99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+godtrex99....;Nice+to+meet+you!&center=true&size=30">
   </a>
+  
+<p align="center">
+  <a href="https://github.com/godtrex99?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/godtrex99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/godtrex99?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/godtrex99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<h2 align="center">⚡ My Contacts ⚡</h2>
+<p align="center">
+<a href="https://t.me/lord_trump"><img src="https://img.shields.io/badge/Telegram-2ea44f?style=for-the-badge&logo=Telegram" alt="Telegram"></a>
+<a href="wa.me/6283892261897"><img src="https://img.shields.io/badge/Whatsapp-2ea44f?style=for-the-badge&logo=Whatsapp" alt="Whatsapp"></a>
+<a href="https://www.facebook.com/rio.acha"><img src="https://img.shields.io/badge/Facebook-2ea44f?style=for-the-badge&logo=Facebook" alt="Facebook"></a>
+<a href="https://instagram.com/ricokowalski.231"><img src="https://img.shields.io/badge/Instagram-2ea44f?style=for-the-badge&logo=Instagram" alt="Instagram"></a>
+
 </h1>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
