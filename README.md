@@ -1,4 +1,14 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.io%2Fgodtrex99"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.io%2Fgodtrex99&label=Visitors&countColor=%232ccce4&style=flat-square" /></a>
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+
+### Hi there 👋
+
+⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.29 %
+
+---
+
+⏰ Updated on Tue, 01 Aug 2023 18:12:50 GMT
+
 
 </p>
 <h1 align="center">
