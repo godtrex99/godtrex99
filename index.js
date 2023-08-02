@@ -15,21 +15,23 @@ function generateProgressBar() {
 
 const readme = `\
 ![Progress Bar CI](https://github.com/godtrex99/godtrex99/workflows/Progress%20Bar%20CI/badge.svg)\
-⏰ Updated on ${new Date().toUTCString()}
 
-### Hi there 👋
+
+<h2 align="center"> Hi There 🖐️ </h2>
+<br>
+
 <p align="center">
   <a href="https://github.com/godtrex99?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/godtrex99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/godtrex99?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/godtrex99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/godtrex99/godtrex99">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/godtrex99"/></a>
 </p>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&duration=5200&pause=1200&color=8BF75F&repeat=false&width=435&lines=Godtrex99" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&duration=5200&pause=1200&color=8BF75F&width=435&lines=Hi%2C+Welcome+To+My+Github+%E2%99%A5%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
+
 </h1>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -61,9 +63,13 @@ const readme = `\
 <h4 align="center">
   <a href="https://github.com/godtrex99?tab=repositories" title="Show More Repositories">🔎 Show More 🔍</a>
 </h4>
-### ⏳ Year progress ⏳ 
+</p>
+
+# ⏳ Year progress ⏳ 
 
 ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+
+⏰ Updated on ${new Date().toUTCString()}
 ---
 
 
