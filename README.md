@@ -1,20 +1,21 @@
-![Progress Bar CI](https://github.com/godtrex99/godtrex99/workflows/Progress%20Bar%20CI/badge.svg)
+![Progress Bar CI](https://github.com/godtrex99/godtrex99/workflows/Progress%20Bar%20CI/badge.svg)![Progress Bar CI](https://github.com/godtrex99/clashconfig/workflows/Rule%20Provider/badge.svg)---
 
 <h2 align="center"> Hi There 🖐️ </h2>
+<p align="center">
+<a href="https://wa.me/6283892261897"><img src="https://img.shields.io/badge/Whatsapp-2ea44f?style=for-the-badge&logo=Whatsapp" alt="Whatsapp"></a>
+<a href="https://t.me/lord_trump"><img src="https://img.shields.io/badge/Telegram-2ea44f?style=for-the-badge&logo=Telegram" alt="Telegram"></a>
+<a href="https://www.facebook.com/rio.acha"><img src="https://img.shields.io/badge/Facebook-2ea44f?style=for-the-badge&logo=Facebook" alt="Facebook"></a>
 <br>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&duration=5200&pause=1200&color=8BF75F&repeat=false&width=435&lines=Godtrex99" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&duration=5200&pause=1200&color=8BF75F&width=435&lines=Hi%2C+Welcome+To+My+Github+%E2%99%A5%EF%B8%8F" alt="Typing SVG" /></a>
+</p>
+<br>
 <p align="center">
   <a href="https://github.com/godtrex99?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/godtrex99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/godtrex99?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/godtrex99?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&duration=5200&pause=1200&color=8BF75F&repeat=false&width=435&lines=Godtrex99" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Russo+One&duration=5200&pause=1200&color=8BF75F&width=435&lines=Hi%2C+Welcome+To+My+Github+%E2%99%A5%EF%B8%8F" alt="Typing SVG" /></a>
-</p>
-
 </h1>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -50,9 +51,9 @@
 
 # ⏳ Year progress ⏳ 
 
-{ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.37 %
+{ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.38 %
 
-⏰ Updated on Wed, 02 Aug 2023 01:30:20 GMT
+⏰ Updated on Wed, 02 Aug 2023 01:59:29 GMT
 ---
 
 
