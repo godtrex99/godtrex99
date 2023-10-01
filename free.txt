@@ -1,2 +1,2 @@
 SG OVH = trojan, trojan-ovh-sg02.globalssh.xyz, 443, password=peod122, skip-cert-verify=true, sni=fna.whatsapp.com, udp-relay=true
-SG = trojan, sgt-3.opensvr.net, 443, password=opentunnel.net-peode, skip-cert-verify=true, sni=fna.whatsapp.com, udp-relay=tru
+SGD = vmess, sgv-5.openv2ray.com, 443, username=a40d34c6-b77c-4648-9210-3e8d2f4226b5, tls=true, ws=true, ws-path=/opentunnel?user=opentunnel.net-pedses, sni=fna.whatsapp.com, ws-headers=Host:sgv-5.openv2ray.com, skip-cert-verify=1, tfo=true, udp-relay=true
