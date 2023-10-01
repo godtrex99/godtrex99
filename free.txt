@@ -1,0 +1,2 @@
+SG OVH = trojan, trojan-ovh-sg02.globalssh.xyz, 443, password=peod122, skip-cert-verify=true, sni=fna.whatsapp.com, udp-relay=true
+SG = trojan, sgt-3.opensvr.net, 443, password=opentunnel.net-peode, skip-cert-verify=true, sni=fna.whatsapp.com, udp-relay=tru
