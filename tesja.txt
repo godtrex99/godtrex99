@@ -1,0 +1,1 @@
+🇮🇩 ID Herza = trojan, id-1.test3.net, 443, password=6de12880-808d-11ee-86ed-1239d0255272, skip-cert-verify=true, sni=v.whatsapp.net, udp-relay=true
