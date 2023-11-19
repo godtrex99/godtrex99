@@ -1,3 +1,0 @@
-Profile-Title: base64:SSDinaTvuI8gSGlkZGlmeQ==
-# OVH LESS
-vless://083c1ef8-0b06-473c-b3e1-a8bae2882312@vless-ovh-sg02.globalssh.xyz:443?security=tls&encryption=none&host=vless-ovh-sg02.globalssh.xyz&type=ws&path=/vless-ws&sni=v.whatsapp.com#pedlesovh-globalssh_vless_ws_tls
