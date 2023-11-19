@@ -1,3 +1,3 @@
-🇮🇩 ID Herza = trojan, id-1.test3.net, 443, password=6de12880-808d-11ee-86ed-1239d0255272, skip-cert-verify=true, sni=v.whatsapp.net, udp-relay=true
-🇸🇬 SG Melbi = trojan, sg-4.test3.net, 443, password=0dd6e770-808b-11ee-b8cd-1239d0255272, skip-cert-verify=true, sni=v.whatsapp.net, udp-relay=true
-🇸🇬 SG V = trojan, sgt-1.optnl.com, 443, password=opentunnel.net-pedov, skip-cert-verify=true, sni=v.whatsapp.net, udp-relay=true
+vmess://eyJ2IjoyLCJwcyI6InBlZG9pa2RzLWdsb2JhbHNzaF92bWVzc190Y3BfdGxzIiwiYWRkIjoidm1lc3MtaWtkLWlkMDEuZ2xvYmFsc3NoLnh5eiIsInBvcnQiOjQ0MywiaWQiOiJkNzhhMTM4MS0xMjI3LTQ3ZjItYjEzMy0yMTBhMDU5NTBhNTYiLCJhaWQiOjAsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6InZtZXNzLWlrZC1pZDAxLmdsb2JhbHNzaC54eXoiLCJwYXRoIjoiL3ZtZXNzLXRjcCIsInRscyI6InRscyIsInNuaSI6InZtZXNzLWlrZC1pZDAxLmdsb2JhbHNzaC54eXoifQ==
+trojan://bebek123@trojan-ovh-sg02.globalssh.xyz:443?peer=trojan-ovh-sg02.globalssh.xyz&sni=trojan-ovh-sg02.globalssh.xyz&alpn=http1.1#pedovh-globalssh_trojan
+trojan://peduas1122@trojan-uas-id01.globalssh.xyz:443?peer=trojan-uas-id01.globalssh.xyz&sni=trojan-uas-id01.globalssh.xyz&alpn=http1.1#pedikd-globalssh_trojan
