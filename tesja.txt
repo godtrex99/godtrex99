@@ -1,2 +1,3 @@
 Profile-Title: base64:SSDinaTvuI8gSGlkZGlmeQ==
-# ID IKD
+# OVH LESS
+vless://083c1ef8-0b06-473c-b3e1-a8bae2882312@vless-ovh-sg02.globalssh.xyz:443?security=tls&encryption=none&host=vless-ovh-sg02.globalssh.xyz&type=tcp&path=/vless-tcp&headerType=http&sni=v.whatsapp.net#pedlesovh-globalssh_vless_tcp_tls
