@@ -1,10 +1,2 @@
-#profile-title: Hiddify
-#profile-title: base64:base64string
+Profile-Title: base64:SSDinaTvuI8gSGlkZGlmeQ==
 # ID IKD
-vmess://eyJ2IjoyLCJwcyI6InBlZG9pa2RzLWdsb2JhbHNzaF92bWVzc190Y3BfdGxzIiwiYWRkIjoidm1lc3MtaWtkLWlkMDEuZ2xvYmFsc3NoLnh5eiIsInBvcnQiOjQ0MywiaWQiOiJkNzhhMTM4MS0xMjI3LTQ3ZjItYjEzMy0yMTBhMDU5NTBhNTYiLCJhaWQiOjAsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6InZtZXNzLWlrZC1pZDAxLmdsb2JhbHNzaC54eXoiLCJwYXRoIjoiL3ZtZXNzLXRjcCIsInRscyI6InRscyIsInNuaSI6InZtZXNzLWlrZC1pZDAxLmdsb2JhbHNzaC54eXoifQ==
-
-# SG OVH
-trojan://bebek123@trojan-ovh-sg02.globalssh.xyz:443?peer=trojan-ovh-sg02.globalssh.xyz&sni=trojan-ovh-sg02.globalssh.xyz&alpn=http1.1#pedovh-globalssh_trojan
-
-# ID UAS
-trojan://peduas1122@trojan-uas-id01.globalssh.xyz:443?peer=trojan-uas-id01.globalssh.xyz&sni=trojan-uas-id01.globalssh.xyz&alpn=http1.1#pedikd-globalssh_trojan
